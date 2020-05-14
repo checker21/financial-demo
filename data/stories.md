@@ -214,3 +214,8 @@
     - utter_ask_back_to_transfer
 * deny
     - utter_ok
+
+## Story from conversation with 1029436008 on May 14th 2020
+
+* start
+    - utter_greet
